@@ -8,7 +8,7 @@ Core Flight Tech. modules communicate via SPAD.neXt Serialv2 directly.
     -Find correct hex file.
     -Select device; Mega2560 for the MCP, Duemilanove/Nano(ATmega328) for other Modules. 
     -Select the correct Com port which the device connected. 
-    -Set baud rate to 115200 for MCP, 57600 for other devices.
+    -Set baud rate to 115200 for MCP, 57600 for other Modules.
     -Upload the hex file. 
     
 Important Note: While uploading, never interrupt the communication of the Module. Otherwise, there is no way to recovery if damaged.
