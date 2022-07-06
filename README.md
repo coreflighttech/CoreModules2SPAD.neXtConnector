@@ -2,7 +2,7 @@
 Core Flight Tech. modules communicate via SPAD.neXt Serialv2 directly.
 
     -Close all applications on PC and be sure SPAD.neXt is not running at the background. 
-    -Connect the via USB. 
+    -Connect the cable via USB. 
     -Run Xloader.exe
     -Click file selection button. 
     -Find correct hex file.
